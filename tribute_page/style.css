@@ -1,0 +1,47 @@
+body {
+  background: url("http://knivesbygregshahan.com/wp-content/uploads/2015/05/Paper-Grunge-Background-24.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+header {
+ text-align: center;
+ margin: 70px;
+ background: white;
+ padding: 10px;
+}
+div {
+  background: white;
+  margin: -50px 70px 70px 70px;
+  padding: 30px;
+}
+h1 {
+  font-size: 60px;
+  margin-bottom: -20px;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+h2 {
+  font-size: 40px;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+h3 {
+   font-family: 'Love Ya Like A Sister', cursive;
+}
+p, ol {
+  font-family: 'Muli', sans-serif;
+}
+#quote {
+  font-size: 30px;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+#center {
+  display: block;
+  text-align: center;
+  font-family: 'Muli', sans-serif;
+}
+footer {
+  font-family: 'Muli', sans-serif;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  margin: 40px;
+}
