@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="/normalize.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister|Muli" rel="stylesheet">
+    <title>Simon Bolivar</title>
+  </head>
+  <body>
+        <header>
+        <h1>Simon Bolivar</h1>
+          <h2>Liberator of South America</h2>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Simon-bolivar.jpg">
+          <p id="quote">"<i>An ignorant people is the blind instrument of its own destruction."</i></p>
+        </header>
+        <div>
+          <h3>Brief Biography</h3>
+          <p>Known as El Libertador (The Liberator), Simon Bolivar was a Venezuelan military and political leader who is renowned for playing the leading role in many Latin American countries achieving independence. Born in a wealthy aristocratic family, Bolivar lost his parents when he was young. He married at the young age of 18 but lost his wife to disease within a year, an event which proved to be a turning point in his life and pushed him toward the independence movements taking place in South America. He had educated in Europe he arrived in Spain at sixteen years of age where he became acquainted with the Enlightenment philosophers who instilled the seeds of a yearning for independence for his country from Spanish rule.</p>
+          <p>
+    He was able to take advantage of Spain's preoccupation with the Peninsular War to start his own campaign which culminated in the Battle of Carabobo and the victory won by the patriots finally succeeding in making Venezuela an independent country. Though Bolivar was able to establish Gran Colombia; which included the territories of present-day Colombia, Venezuela, Ecuador, Panama and Peru; his dream of a united South America ultimately failed with its regions becoming sovereign states.</p>
+        </div>
+        <div>
+          <h3>20 Facts</h3>
+          <ol>
+            <li>Simon Bolivar was born on July 24th 1783 and during the 18th century period in history when France and America both went through revolutions and the Industrial Revolution began in Britain.</li><br>
+            <li>For a brief time Simon was entrusted to the care of Dona Ines Manceba de Mirares but he would be returned to his parents loving care but before Simon was three years old his father had died in his sleep.</li><br>
+            <li>By the time he was nine years old he would find himself an orphan when his mother died as he approached nine years of age.</li><br>
+            <li>At fourteen years of age he was enrolled at the Military Academy Milicias de Veraguas.</li><br>
+            <li>During his time there he developed a passion for military strategy, armaments and liberty which he would utilize in time.</li><br>
+            <li>Several years later he was in Paris and would be witness to Napoleon’s coronation in Notre Dame. This event left a lasting impression on him.</li><br>
+            <li>In 1807 he made his return to Venezuela and in 1810 a coup took place which resulted in a de facto independence as the Supreme Junta of Caracas was established.</li><br>
+            <li>A delegation was sent from the Junta to Britain to obtain recognition as well as aid.</li><br>
+            <li>They also were able to persuade Francisco de Miranda to return home with them.</li><br>
+            <li>In 1811 he made his return to La Guaira and the following year a Civil War took place headed by Miranda with Bolivar being promoted to colonel.</li><br>
+            <li>The following year he was promoted again to colonel and also made commandant of Puerto Cabello. However vast advances were made by royalist Fridate Captain Domingo de Monteverde and San Felipe Castle was taken over by him and Bolivar returned to his home.</li><br>
+            <li>When Miranda, having decided their cause was lost, made a deal with Monteverde they considered him a traitor and handed him over to the Royalist army who in turn granted a passport to Bolivar who left for Curacao and given a military command in Tunja, in New Granada.</li><br>
+            <li>On May 24th 1813 when he entered Merida he was seen as El Libertador.</li><br>
+            <li>By August 1813 Caracas was taken back and Bolivar would be ratified as the liberator and proclaimed the restoration of the Venezuelan republic. Shortly after the republic fell and Bolivar made his return to New Granada.</li><br>
+            <li>However he came into conflict with the government at Cartagena and so made for Jamaica where he was given no support and an attempt to kill him was made.</li><br>
+            <li>Instead he made for Haiti where he was offered protection and sanctuary. The President of the newly independent country was Alexandre Petion and the two became friends.</li><br>
+            <li>He would petition Petion for assistance and would return to Venezuela, however his hopes of gaining independence for Venezuela would not succeed immediately and he settled for gaining independence for New Granada first before trying for Venezuela.</li><br>
+            <li>After various battles and campaigns including the Battle of Carabobo, the Battle of Bombona and the Battle of Pichincha Bolivar was finally able to liberate Peru.</li><br>
+            <li>By August of 1825 he had been given the honor of not only being voted President but also had the country named after him, he became President of the Republic of Bolivia.</li><br>
+            <li>By 1830 he had decided to resign his presidency and head for Europe, however although he had already sent his belongings ahead, on December 17th 1830 Simon Bolivar died of tuberculosis in Santa Marta, Gran Colombia. His body laid to rest in Santa Marta although some years later he would be moved to Caracas and a monument placed over his grave.</li><br>
+          </ol>
+          <a href="https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar" target="_blank" id="center">More information</a>
+      </div>
+    <footer>
+      <p>Coded by <a href="http://ccvk.me/" target="_blank">Claudia Vargas</a> / Information source: <a href="https://www.facts-about.org.uk/famous-people-facts-starting-with-s/simon-bolivar.htm" target="_blank">Here</a></p>
+      </footer>
+  </body>
+</html>
